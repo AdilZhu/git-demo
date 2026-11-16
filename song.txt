@@ -13,4 +13,9 @@ I know
 Only when you stop to think about me
 Do you know?
 
+<<<<<<< HEAD
 I am happy
+=======
+go crazy
+go stupid
+>>>>>>> 0cd2be6 (finish lyrics)
